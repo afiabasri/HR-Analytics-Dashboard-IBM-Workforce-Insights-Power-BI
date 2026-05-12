@@ -83,7 +83,7 @@ hr-analytics-dashboard/
 
 | Home Page | Dashboard | Recommendations |
 |-----------|-----------|------------------|
-| ![Home](screenshots/Home_page.png) | ![Dashboard](screenshots/Dashboard.png) | ![Recommendations](screenshots/Recommendations_page.png) |
+| ![Home](https://github.com/afiabasri/HR-Analytics-Dashboard-IBM-Workforce-Insights-Power-BI/blob/main/Home_page.png) | ![Dashboard](https://github.com/afiabasri/HR-Analytics-Dashboard-IBM-Workforce-Insights-Power-BI/blob/main/Dashboard.png) | ![Recommendations](https://github.com/afiabasri/HR-Analytics-Dashboard-IBM-Workforce-Insights-Power-BI/blob/main/Recommendations_page.png)|
 
 ---
 
